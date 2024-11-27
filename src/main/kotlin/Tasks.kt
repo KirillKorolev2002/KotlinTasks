@@ -13,3 +13,4 @@ class Company {
     }
     fun totalEmployees() = employees.size
 }
+// решенно
